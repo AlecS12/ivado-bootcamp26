@@ -35,21 +35,21 @@ Simply open the notebooks via badges provided below, or upload them to [colab.re
 
 ### Lab 1 
 
-**Cooperative Games from scratch** : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/)
+**Cooperative Games from scratch** : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/milidris/ivado-bootcamp26/blob/main/notebooks/IVADOBootcamp_Day4_Lab1.ipynb)
 
 ### Lab 2
 
-**Showcase of Python packages for attribution methods** : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/)
+**Showcase of Python packages for attribution methods** : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/milidris/ivado-bootcamp26/blob/main/notebooks/IVADOBootcamp_Day4_Lab2_Python.ipynb)
 
-⚠️ (Does not run in Colab) **Showcase of R packages for attribution methods** : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/)
+⚠️ (Does not run in Colab) **Showcase of R packages for attribution methods** : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/milidris/ivado-bootcamp26/blob/main/notebooks/IVADOBootcamp_Day4_Lab2_R.ipynb)
 
 ### Lab 3
 
-**Extracting concepts from an LLM using the `interpreto` package** : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/)
+**Extracting concepts from an LLM using the `interpreto` package** : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/milidris/ivado-bootcamp26/blob/main/notebooks/IVADOBootcamp_Day4_Lab3_LLM.ipynb)
 
 **Concept exploration and LLM steering** : [Neuronpedia](https://www.neuronpedia.org/)
 
-**Extracting concepts and steering a Stable diffusion model** : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/)
+**Extracting concepts and steering a Stable diffusion model** : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/milidris/ivado-bootcamp26/blob/main/notebooks/IVADOBootcamp_Day4_Lab3_StableDiffusion.ipynb)
 
 **Concept exploration in vision models** : [Lens Project](https://serre-lab.github.io/Lens/classes/espresso/)
 
